@@ -1,0 +1,644 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 9 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:inigo.aldazabalm@ehu.eus) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 263.5123
+ 653.7736
+ 384.2723
+ 665.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://en.wikipedia.org/wiki/Version_control) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 240.1128
+ 599.7736
+ 311.7613
+ 611.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://git-scm.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 97.2274
+ 587.7736
+ 110.0074
+ 599.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 103.2729
+ 575.7736
+ 135.5129
+ 587.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://swcarpentry-wuerzburg.github.io/2017-04-27-wuerzburg/#python) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 373.1777
+ 425.7736
+ 474.1027
+ 437.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+9 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 230.4529
+ 334.7736
+ 277.7029
+ 346.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://iamc.eu/cfmsctracks-20171003-git-novice/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 267.7829
+ 183.7736
+ 480.0829
+ 195.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://software-carpentry.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 446.3477
+ 165.7736
+ 532.4877
+ 177.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://swcarpentry.github.io/git-novice/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 337.8129
+ 153.7736
+ 510.6629
+ 165.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://creativecommons.org/licenses/by/4.0/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 194.4029
+ 102.7736
+ 479.5029
+ 114.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R ]
+ /Contents 23 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 22 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R16': class PDFCatalog 
+16 0 obj
+% Document Root
+<< /Outlines 18 0 R
+ /PageLabels 24 0 R
+ /PageMode /UseNone
+ /Pages 22 0 R
+ /Type /Catalog >>
+endobj
+% 'R17': class PDFInfo 
+17 0 obj
+<< /Author ()
+ /CreationDate (D:20170928132935-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (CFM Software Carpentry Tracks - 2017-10-03  - Introduction to Version Control with Git) >>
+endobj
+% 'R18': class PDFOutlines 
+18 0 obj
+<< /Count 3
+ /First 19 0 R
+ /Last 21 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 638.0236
+ 0 ]
+ /Next 20 0 R
+ /Parent 18 0 R
+ /Title (Abstract) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 222.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 18 0 R
+ /Prev 19 0 R
+ /Title (Lesson material) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 141.0236
+ 0 ]
+ /Parent 18 0 R
+ /Prev 20 0 R
+ /Title (License) >>
+endobj
+% 'R22': class PDFPages 
+22 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 15 0 R ]
+ /Type /Pages >>
+endobj
+% 'R23': class PDFStream 
+23 0 obj
+% page stream
+<< /Length 7111 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 28 Tm 17.10488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (CFM Software Carpentry Tracks - 2017-10-03 -) Tj T* 30.05 0 Td (Introduction to Version Control with Git) Tj T* -47.15488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 680.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 9.68937 0 Td 12 TL /F2 10 Tf 0 0 0 rg (Date & place:) Tj T* -9.68937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.052039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Materials Physics Center \(CFM\) Computer Room - San Sebastian, 3th October,) Tj T* 0 Tw (9:30-13:30 2017) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.02937 0 Td (Track:) Tj T* -43.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Version Control with Git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.04937 0 Td (Autor:) Tj T* -43.04937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (I\361igo Aldazabal Mensa <) Tj 0 0 .501961 rg (inigo.aldazabalm@ehu.eus) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 575.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.924269 Tw 12 TL /F1 10 Tf 0 0 0 rg (This will be an introductory lesson to ) Tj 0 0 .501961 rg (version control ) Tj 0 0 0 rg (using the widespread distributed version control) Tj T* 0 Tw .084488 Tw (system ) Tj 0 0 .501961 rg (Git) Tj 0 0 0 rg (. We will learn enough to use git to control our files in a day-to-day workflow, and we'll also take) Tj T* 0 Tw (a look at ) Tj 0 0 .501961 rg (Github ) Tj 0 0 0 rg (web service and play around a bit with it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .885227 Tw (Version control is a system that records changes to a file or set of files over time so that you can recall) Tj T* 0 Tw (specific versions later. It allows us to do things as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Jump to any moment in a file past history.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Track changes and see differences between any two moments on time.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 503.0236 cm
+Q
+q
+1 0 0 1 62.69291 491.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Long-term undo.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Seamlessly collaborate with other people.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (And many others we'll see...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+Q
+q
+1 0 0 1 62.69291 413.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.298735 Tw 12 TL /F1 10 Tf 0 0 0 rg (The participants are encouraged to follow the lesson typing along in their laptops, even though we will) Tj T* 0 Tw .334983 Tw (have computers available in the computing room. You can follow this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (, ignoring the) Tj T* 0 Tw (last Python part if you want.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm 1.224692 Tw 12 TL /F1 10 Tf 0 0 0 rg (We will do some collaborative work using Github. In order to follow this part of the lesson you'll) Tj T* 0 Tw (need a Github account, so please ) Tj 0 0 .501961 rg (create one) Tj 0 0 0 rg (. You can always remove it later if you want so.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.684597 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested having a control over the evolution and) Tj T* 0 Tw 1.123672 Tw (history of changes of files and projects they work on, as well as to collaborate with others on a shared) Tj T* 0 Tw (repository.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: minimal command line usage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Lesson material) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can find the lesson we will be following in ) Tj 0 0 .501961 rg (http://iamc.eu/cfmsctracks-20171003-git-novice/) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .094985 Tw 12 TL /F1 10 Tf 0 0 0 rg (This material is is forked from "An introduction to version control for novices using Git" ) Tj 0 0 .501961 rg (Software Carpentry) Tj T* 0 Tw 0 0 0 rg (lesson. You can always find the last version of this material at ) Tj 0 0 .501961 rg (https://swcarpentry.github.io/git-novice/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution 4.0 International License \(CC BY\)) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R24': class PDFPageLabels 
+24 0 obj
+% Document Root
+<< /Nums [ 0
+ 25 0 R ] >>
+endobj
+% 'R25': class PDFPageLabel 
+25 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 26
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000585 00000 n
+0000000834 00000 n
+0000001097 00000 n
+0000001334 00000 n
+0000001570 00000 n
+0000001844 00000 n
+0000002045 00000 n
+0000002282 00000 n
+0000002548 00000 n
+0000002798 00000 n
+0000003059 00000 n
+0000003307 00000 n
+0000003685 00000 n
+0000003844 00000 n
+0000004178 00000 n
+0000004303 00000 n
+0000004472 00000 n
+0000004663 00000 n
+0000004815 00000 n
+0000004923 00000 n
+0000012137 00000 n
+0000012230 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(%v?\264\307#;\357\316\321\022\004J\301\206\375) (%v?\264\307#;\357\316\321\022\004J\301\206\375)] 
+
+ /Info 17 0 R
+ /Root 16 0 R
+ /Size 26 >>
+startxref
+12277
+%%EOF
