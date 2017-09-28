@@ -49,9 +49,9 @@ endobj
  0
  0 ]
  /Rect [ 263.5123
- 626.7736
+ 638.7736
  384.2723
- 638.7736 ]
+ 650.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -64,9 +64,9 @@ endobj
  0
  0 ]
  /Rect [ 240.1128
- 572.7736
+ 584.7736
  311.7613
- 584.7736 ]
+ 596.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -78,10 +78,10 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 97.2274
- 560.7736
- 110.0074
- 572.7736 ]
+ /Rect [ 98.25606
+ 572.7736
+ 111.0361
+ 584.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -93,10 +93,10 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 103.2729
- 548.7736
- 135.5129
- 560.7736 ]
+ /Rect [ 124.9529
+ 560.7736
+ 157.1929
+ 572.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -109,9 +109,9 @@ endobj
  0
  0 ]
  /Rect [ 373.1777
- 398.7736
+ 368.7736
  474.1027
- 410.7736 ]
+ 380.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -133,9 +133,9 @@ endobj
  0
  0 ]
  /Rect [ 230.4529
- 307.7736
+ 277.7736
  277.7029
- 319.7736 ]
+ 289.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -148,9 +148,9 @@ endobj
  0
  0 ]
  /Rect [ 267.7829
- 156.7736
+ 126.7736
  480.0829
- 168.7736 ]
+ 138.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -163,9 +163,9 @@ endobj
  0
  0 ]
  /Rect [ 445.6747
- 138.7736
+ 108.7736
  531.8147
- 150.7736 ]
+ 120.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -178,14 +178,29 @@ endobj
  0
  0 ]
  /Rect [ 337.8129
- 126.7736
+ 96.77362
  510.6629
- 138.7736 ]
+ 108.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://creativecommons.org/licenses/by/4.0/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 194.4029
+ 78.77362
+ 479.5029
+ 90.77362 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-15 0 obj
+16 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
@@ -196,13 +211,14 @@ endobj
  11 0 R
  12 0 R
  13 0 R
- 14 0 R ]
- /Contents 25 0 R
+ 14 0 R
+ 15 0 R ]
+ /Contents 23 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 24 0 R
+ /Parent 22 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -213,113 +229,65 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER11': class PDFDictionary 
-16 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://creativecommons.org/licenses/by/4.0/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 194.4029
- 726.7736
- 479.5029
- 738.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Page2': class PDFPage 
+% 'R17': class PDFCatalog 
 17 0 obj
-% Page dictionary
-<< /Annots [ 16 0 R ]
- /Contents 26 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 24 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
-% 'R18': class PDFCatalog 
-18 0 obj
 % Document Root
-<< /Outlines 20 0 R
- /PageLabels 27 0 R
+<< /Outlines 19 0 R
+ /PageLabels 24 0 R
  /PageMode /UseNone
- /Pages 24 0 R
+ /Pages 22 0 R
  /Type /Catalog >>
 endobj
-% 'R19': class PDFInfo 
-19 0 obj
+% 'R18': class PDFInfo 
+18 0 obj
 << /Author ()
- /CreationDate (D:20170928143939-01'00')
+ /CreationDate (D:20170928164010-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (CFM Software Carpentry Tracks - 2017-10-03  - Introduction to Version Control with Git) >>
 endobj
-% 'R20': class PDFOutlines 
-20 0 obj
-<< /Count 3
- /First 21 0 R
- /Last 23 0 R
+% 'R19': class PDFOutlines 
+19 0 obj
+<< /Count 2
+ /First 20 0 R
+ /Last 21 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-21 0 obj
-<< /Dest [ 15 0 R
+20 0 obj
+<< /Dest [ 16 0 R
  /XYZ
  62.69291
- 611.0236
+ 623.0236
  0 ]
- /Next 22 0 R
- /Parent 20 0 R
+ /Next 21 0 R
+ /Parent 19 0 R
  /Title (Abstract) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 165.0236
+ 0 ]
+ /Parent 19 0 R
+ /Prev 20 0 R
+ /Title (Lesson material and License) >>
+endobj
+% 'R22': class PDFPages 
 22 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 195.0236
- 0 ]
- /Next 23 0 R
- /Parent 20 0 R
- /Prev 21 0 R
- /Title (Lesson material) >>
-endobj
-% 'Outline.2': class OutlineEntryObject 
-23 0 obj
-<< /Dest [ 17 0 R
- /XYZ
- 62.69291
- 765.0236
- 0 ]
- /Parent 20 0 R
- /Prev 22 0 R
- /Title (License) >>
-endobj
-% 'R24': class PDFPages 
-24 0 obj
 % page tree
-<< /Count 2
- /Kids [ 15 0 R
- 17 0 R ]
+<< /Count 1
+ /Kids [ 16 0 R ]
  /Type /Pages >>
 endobj
-% 'R25': class PDFStream 
-25 0 obj
+% 'R23': class PDFStream 
+23 0 obj
 % page stream
-<< /Length 7157 >>
+<< /Length 7703 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -369,18 +337,18 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 638.0236 cm
+1 0 0 1 62.69291 650.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 38.02937 0 Td (Lesson) Tj T* -6.67 0 Td (material:) Tj T* -31.35937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.91937 0 Td (Material:) Tj T* -31.91937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 15 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -391,7 +359,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 623.0236 cm
+1 0 0 1 62.69291 635.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -411,56 +379,39 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 590.0236 cm
+1 0 0 1 62.69291 602.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Abstract) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 548.0236 cm
+1 0 0 1 62.69291 560.0236 cm
 q
-BT 1 0 0 1 0 26 Tm 1.924269 Tw 12 TL /F1 10 Tf 0 0 0 rg (This will be an introductory lesson to ) Tj 0 0 .501961 rg (version control ) Tj 0 0 0 rg (using the widespread distributed version control) Tj T* 0 Tw .084488 Tw (system ) Tj 0 0 .501961 rg (Git) Tj 0 0 0 rg (. We will learn enough to use git to control our files in a day-to-day workflow, and we'll also take) Tj T* 0 Tw (a look at ) Tj 0 0 .501961 rg (Github ) Tj 0 0 0 rg (web service and play around a bit with it.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.924269 Tw 12 TL /F1 10 Tf 0 0 0 rg (This will be an introductory lesson to ) Tj 0 0 .501961 rg (version control ) Tj 0 0 0 rg (using the widespread distributed version control) Tj T* 0 Tw 1.113145 Tw (system ) Tj 0 0 .501961 rg (Git) Tj 0 0 0 rg (. We will learn enough to use Git to control our files in a day-to-day workflow, and we'll also) Tj T* 0 Tw (take a look at ) Tj 0 0 .501961 rg (Github ) Tj 0 0 0 rg (web service and play around a bit with it.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 518.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .885227 Tw (Version control is a system that records changes to a file or set of files over time so that you can recall) Tj T* 0 Tw (specific versions later. It allows us to do things as:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 512.0236 cm
-Q
-q
-1 0 0 1 62.69291 512.0236 cm
-Q
-q
-1 0 0 1 62.69291 500.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
+1 0 0 1 62.69291 506.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .885227 Tw (Version control is a system that records changes to a file or set of files over time so that you can recall) Tj T* 0 Tw .832619 Tw (specific versions later. It allows us to do things as jumping to any moment in a file past history, tracking) Tj T* 0 Tw .403059 Tw (changes and see differences between any two moments on time, long-term undo, seamlessly collaborate) Tj T* 0 Tw (with other people, and many others we'll see...) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 62.69291 488.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Jump to any moment in a file past history.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We will cover topics as:) Tj T* ET
 Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 494.0236 cm
 Q
 q
 1 0 0 1 62.69291 482.0236 cm
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -474,17 +425,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Track changes and see differences between any two moments on time.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Setting up Git and creating a local repository) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 476.0236 cm
 Q
 q
 1 0 0 1 62.69291 464.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -498,17 +449,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Long-term undo.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tracking changes and exploring history) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 458.0236 cm
 Q
 q
 1 0 0 1 62.69291 446.0236 cm
+Q
+q
+1 0 0 1 62.69291 434.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -522,17 +473,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Seamlessly collaborate with other people.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Remotes in Github) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 440.0236 cm
 Q
 q
 1 0 0 1 62.69291 428.0236 cm
+Q
+q
+1 0 0 1 62.69291 416.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -546,26 +497,50 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (And many others we'll see...) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Collaborating with other people) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 428.0236 cm
+1 0 0 1 62.69291 410.0236 cm
 Q
 q
-1 0 0 1 62.69291 386.0236 cm
+1 0 0 1 62.69291 398.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Resolving conflicts) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 398.0236 cm
+Q
+q
+1 0 0 1 62.69291 356.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.298735 Tw 12 TL /F1 10 Tf 0 0 0 rg (The participants are encouraged to follow the lesson typing along in their laptops, even though we will) Tj T* 0 Tw .334983 Tw (have computers available in the computing room. You can follow this ) Tj 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (, ignoring the) Tj T* 0 Tw (last Python part if you want.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 374.0236 cm
+1 0 0 1 62.69291 344.0236 cm
 Q
 q
-1 0 0 1 62.69291 291.0236 cm
+1 0 0 1 62.69291 261.0236 cm
 .960784 .960784 .862745 rg
 n 0 83 469.8898 -83 re f*
 0 0 0 rg
@@ -596,61 +571,46 @@ n 469.8898 0 m 469.8898 83 l S
 Q
 Q
 q
-1 0 0 1 62.69291 285.0236 cm
+1 0 0 1 62.69291 255.0236 cm
 Q
 q
-1 0 0 1 62.69291 243.0236 cm
+1 0 0 1 62.69291 213.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.684597 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested having a control over the evolution and) Tj T* 0 Tw 1.123672 Tw (history of changes of files and projects they work on, as well as to collaborate with others on a shared) Tj T* 0 Tw (repository.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 207.0236 cm
+1 0 0 1 62.69291 177.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: minimal command line usage.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 144.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Lesson material) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 156.0236 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can find the lesson we will be following in ) Tj 0 0 .501961 rg (http://iamc.eu/cfmsctracks-20171003-git-novice/) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Lesson material and License) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 126.0236 cm
 q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can find the lesson we will be following in ) Tj 0 0 .501961 rg (http://iamc.eu/cfmsctracks-20171003-git-novice/) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
 BT 1 0 0 1 0 14 Tm .767984 Tw 12 TL /F1 10 Tf 0 0 0 rg (This material is forked from "An introduction to version control for novices using Git" ) Tj 0 0 .501961 rg (Software Carpentry) Tj T* 0 Tw 0 0 0 rg (lesson. You can always find the last version of this material at ) Tj 0 0 .501961 rg (https://swcarpentry.github.io/git-novice/) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-% 'R26': class PDFStream 
-26 0 obj
-% page stream
-<< /Length 382 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 744.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 726.0236 cm
+1 0 0 1 62.69291 78.02362 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution 4.0 International License \(CC BY\)) Tj 0 0 0 rg (.) Tj T* ET
 Q
@@ -658,28 +618,20 @@ Q
  
 endstream
 endobj
-% 'R27': class PDFPageLabels 
-27 0 obj
+% 'R24': class PDFPageLabels 
+24 0 obj
 % Document Root
 << /Nums [ 0
- 28 0 R
- 1
- 29 0 R ] >>
+ 25 0 R ] >>
 endobj
-% 'R28': class PDFPageLabel 
-28 0 obj
+% 'R25': class PDFPageLabel 
+25 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R29': class PDFPageLabel 
-29 0 obj
-% None
-<< /S /D
- /St 2 >>
-endobj
 xref
-0 30
+0 26
 0000000000 65535 f
 0000000113 00000 n
 0000000234 00000 n
@@ -688,36 +640,32 @@ xref
 0000000851 00000 n
 0000001100 00000 n
 0000001363 00000 n
-0000001600 00000 n
-0000001836 00000 n
-0000002110 00000 n
-0000002312 00000 n
-0000002549 00000 n
-0000002815 00000 n
-0000003066 00000 n
-0000003312 00000 n
-0000003703 00000 n
-0000003951 00000 n
-0000004253 00000 n
-0000004412 00000 n
-0000004746 00000 n
-0000004871 00000 n
-0000005040 00000 n
-0000005231 00000 n
-0000005383 00000 n
-0000005500 00000 n
-0000012756 00000 n
-0000013240 00000 n
-0000013346 00000 n
-0000013423 00000 n
+0000001601 00000 n
+0000001837 00000 n
+0000002111 00000 n
+0000002313 00000 n
+0000002550 00000 n
+0000002816 00000 n
+0000003067 00000 n
+0000003328 00000 n
+0000003576 00000 n
+0000003962 00000 n
+0000004121 00000 n
+0000004455 00000 n
+0000004580 00000 n
+0000004749 00000 n
+0000004921 00000 n
+0000005029 00000 n
+0000012835 00000 n
+0000012928 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\336\361#4\265k\001\261\244\203\0179\375\010~\205) (\336\361#4\265k\001\261\244\203\0179\375\010~\205)] 
+ [(LFS\221\0227+\2001\353\326\205\002\005,\375) (LFS\221\0227+\2001\353\326\205\002\005,\375)] 
 
- /Info 19 0 R
- /Root 18 0 R
- /Size 30 >>
+ /Info 18 0 R
+ /Root 17 0 R
+ /Size 26 >>
 startxref
-13470
+12975
 %%EOF
