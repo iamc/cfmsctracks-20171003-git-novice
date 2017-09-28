@@ -2,7 +2,7 @@
 CFM Software Carpentry Tracks - 2017-10-03  - Introduction to Version Control with Git
 **************************************************************************************
 
-:Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 3th October, 9:30-13:30 2017
+:Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 3rd October, 9:30-13:30 2017
 :Track: Introduction to Version Control with Git
 :Lesson material: http://iamc.eu/cfmsctracks-20171003-git-novice/
 :Autor: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
