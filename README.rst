@@ -4,6 +4,7 @@ CFM Software Carpentry Tracks - 2017-10-03  - Introduction to Version Control wi
 
 :Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 3th October, 9:30-13:30 2017
 :Track: Introduction to Version Control with Git
+:Lesson material: http://iamc.eu/cfmsctracks-20171003-git-novice/
 :Autor: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
 
 
@@ -45,7 +46,7 @@ Lesson material
 
 You can find the lesson we will be following in http://iamc.eu/cfmsctracks-20171003-git-novice/.
 
-This material is is forked from "An introduction to version control for novices using Git" `Software Carpentry`_ lesson. You can always find the last version of this material at https://swcarpentry.github.io/git-novice/
+This material is forked from "An introduction to version control for novices using Git" `Software Carpentry`_ lesson. You can always find the last version of this material at https://swcarpentry.github.io/git-novice/
 
 License
 #######
